@@ -1,0 +1,3 @@
+cat filebaru.txt
+grep -w "tugastos" filebaru.txt
+history
