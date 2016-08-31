@@ -1,0 +1,10 @@
+ls
+mkdir tugas
+rmdir tugas
+mkdir tugastos1
+cd tugastos1
+touch inifilebaru
+nano inifilebaru
+ls
+cd ..
+history
